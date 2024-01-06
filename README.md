@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Im Jaxson 👋
 
 As a full-stack developer, I craft seamless digital solutions. My expertise spans front-end and back-end technologies, ensuring both intuitive user interfaces and robust server-side logic. I thrive in collaborative environments, contributing to project success with innovative solutions.
 
